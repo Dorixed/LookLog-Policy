@@ -42,8 +42,3 @@ LookLog 是一款注重隐私的衣橱管理工具，致力于帮助长期主义
 - 支持数据分析
 - 支持会员订阅
 
-## 实用链接
-
-- [隐私政策](https://dorixed.github.io/LookLog-Policy/PrivacyPolicy.html)
-- [使用条款](https://dorixed.github.io/LookLog-Policy/Terms&Conditions.html)
-- [App Store 下载](your-app-store-link)
