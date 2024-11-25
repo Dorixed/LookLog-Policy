@@ -31,14 +31,16 @@ const config = {
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en', // 确保默认语言正确
-    locales: ['en', 'zh-CN'], // 包含中文
-    localeConfigs: {
-      en: { htmlLang: 'en-US' },
-      'zh-CN': { htmlLang: 'zh-CN', label: '中文' },
-    },
-  },
+ i18n: {
+      defaultLocale: 'zh-CN',
+      locales: ['en', 'zh-CN'],
+      localeConfigs: {
+        'zh-Hans': {
+          htmlLang: 'zh-CN',
+        },
+      },
+    },
+    
 
   presets: [
     [
