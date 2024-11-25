@@ -1,4 +1,9 @@
-## LookLog 长期主义者的衣橱笔记
+---
+sidebar_position: 1
+sidebar_label: LookLog
+sidebar_class_name: green
+---
+# LookLog 长期主义者的衣橱笔记
 
 一款注重隐私的衣橱管理工具，用数据思维重新定义你的衣物价值。
 
