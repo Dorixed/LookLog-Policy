@@ -9,3 +9,11 @@
   height: 200px;
   width: 200px;
 }
+
+.featureImg {
+  max-width: 100%;
+  height: auto; /* 保持图片比例 */
+  max-height: 500px; /* 根据需求设置最大高度 */
+  object-fit: contain; /* 确保图片不失真 */
+  margin: 0 auto; /* 居中图片 */
+}

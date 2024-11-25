@@ -65,7 +65,7 @@ const config = {
         title: 'LookLog',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/icon.png',
         },
         items: [
           {

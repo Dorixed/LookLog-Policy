@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Download LookLog
+            Learn More About LookLog
           </Link>
         </div>
       </div>

@@ -4,42 +4,43 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '记录每日穿搭',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '记录穿搭，找到适合自己的风格',
+    Img: '/img/journal.png',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        通过每天记录穿搭，逐渐发现哪些衣服是真正适合自己的，避免盲目追随博主推荐，找到属于自己的穿搭风格。
       </>
     ),
   },
   {
-    title: '计算',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: '量化单品价值，践行长期主义',
+    Img: '/img/wardrobe.png',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        记录每件衣服的穿着次数，分辨哪些是真正物有所值的长期主义单品，避免因为便宜而买入“假划算”的衣物。
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'AI智能识别，最小化录入门槛',
+    Img: '/img/add.png',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        借助AI技术，自动识别服装类别，减少手动填写，让记录衣物更加轻松高效。
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Img, Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {Img ? (
+          <img src={Img} alt={title} className={styles.featureImg} />
+        ) : (
+          <Svg className={styles.featureSvg} role="img" />
+        )}
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
