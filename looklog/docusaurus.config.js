@@ -95,7 +95,18 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      metadata: [{
+        name: 'keywords',
+        content: 'looklog, wardrobe, clothing, journal',
+      }],
     }),
 };
+
+// 根据语言设置不同的 tagline
+if (config.i18n.currentLocale === 'en') {
+  config.tagline = 'A Wardrobe Journal for Long-term Thinkers';
+} else {
+  config.tagline = '长期主义者的衣橱笔记';
+}
 
 export default config;

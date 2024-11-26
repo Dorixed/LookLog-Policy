@@ -309,5 +309,9 @@
   "theme.tags.tagsPageTitle": {
     "message": "标签",
     "description": "The title of the tag list page"
+  },
+  "site.tagline": {
+    "message": "长期主义者的衣橱笔记",
+    "description": "The tagline for the website"
   }
 }

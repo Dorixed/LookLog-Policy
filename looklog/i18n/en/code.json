@@ -309,5 +309,37 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "homepage.feature1.title": {
+    "message": "Record outfits, find your style",
+    "description": "Homepage feature 1 title"
+  },
+  "homepage.feature1.description": {
+    "message": "By recording daily outfits, gradually discover which clothes truly suit you, avoid blindly following influencers' recommendations, and find your own style.",
+    "description": "Homepage feature 1 description"
+  },
+  "homepage.feature2.title": {
+    "message": "Quantify item value, practice long-term thinking",
+    "description": "Homepage feature 2 title"
+  },
+  "homepage.feature2.description": {
+    "message": "Record how many times each piece of clothing is worn, identify which items are truly worth the investment, and avoid buying \"false bargains\" just because they're cheap.",
+    "description": "Homepage feature 2 description"
+  },
+  "homepage.feature3.title": {
+    "message": "AI smart recognition, minimal input required",
+    "description": "Homepage feature 3 title"
+  },
+  "homepage.feature3.description": {
+    "message": "Using AI technology to automatically identify clothing categories, reduce manual input, and make recording clothes more efficient.",
+    "description": "Homepage feature 3 description"
+  },
+  "homepage.learnMore": {
+    "message": "Learn More About LookLog",
+    "description": "Homepage learn more button text"
+  },
+  "site.tagline": {
+    "message": "A Wardrobe Journal for Long-term Thinkers",
+    "description": "The tagline for the website"
   }
 }
