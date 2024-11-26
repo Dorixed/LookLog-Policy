@@ -1,28 +1,24 @@
-# 版本记录
+# Release Notes
 
 ### v1.1.0 - 2024-11-26
 
-**🥳新功能：**
-  * 在衣柜视图顶部添加分类筛选按钮，点击可切换不同类别的衣物列表。
-  * 添加iCloud备份功能，支持在不同设备间同步数据。
+**🥳 New Features:**
+  * Added category filter buttons at the top of the wardrobe view, allowing users to switch between different categories of clothing.
+  * Added iCloud backup functionality to support data synchronization across different devices.
 
-**💅改进：**
-  * 优化了图片存储大小，减少内存占用。
-
-
+**💅 Improvements:**
+  * Optimized image storage size to reduce memory usage.
 
 ### v1.0.0 - 2024-11-25
 
+**🥳 New Features:**
+- Initial release
+- Supports basic wardrobe management features
+- Supports outfit recording functionality
+- Supports data analysis
+- Supports membership subscriptions
 
-**🥳新功能：**
-- 首次发布
-- 支持基础衣橱管理功能
-- 支持穿搭记录功能
-- 支持数据分析
-- 支持会员订阅
+**Additional Notes**
 
-
-**附加说明**
-
-* **数据安全**：所有数据均保存在本地设备中，保障您的隐私安全。
-* **反馈与支持**：如有任何问题或建议，请通过应用内的反馈渠道联系我们。
+* **Data Security**: All data is stored locally on the user's device, ensuring your privacy is protected.
+* **Feedback and Support**: If you have any questions or suggestions, please contact us through the feedback channel within the app.

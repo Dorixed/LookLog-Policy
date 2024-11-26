@@ -5,31 +5,31 @@ title: Introduction
 sidebar_label: LookLog
 sidebar_class_name: green
 ---
-# LookLog 长期主义者的衣橱笔记
+# LookLog: A Long-Termist's Wardrobe Notes
 
-一款注重隐私的衣橱管理工具，用数据思维重新定义你的衣物价值。
+A privacy-focused wardrobe management tool that redefines the value of your clothing through data thinking.
 
-### 核心功能：
+### Core Features:
 
-* 智能计算每件衣服的实际成本
-* 记录每日穿搭，追踪使用频率
-* 无需登录，本地存储保护隐私
-* 直观展示衣物的性价比数据
+* Smart calculation of the actual cost of each piece of clothing
+* Record daily outfits and track usage frequency
+* No login required, local storage protects your privacy
+* Intuitive display of clothing cost-performance data
 
-### 让数据告诉你：
+### Let the data tell you:
 
-* 哪些是你的衣橱常青树
-* 哪些是"假便宜"的冲动消费
-* 如何提升衣物的投资回报率
+* Which items are your wardrobe staples
+* Which are impulsive purchases that seem "cheap"
+* How to improve the return on investment for your clothing
 
-### 支持会员功能：
+### Membership Features:
 
-* 解锁无限衣橱空间
-* 优先体验新功能
-* 支持独立开发者
+* Unlock unlimited wardrobe space
+* Get priority access to new features
+* Support independent developers
 
-### 践行长期主义，让每一件衣服都物尽其用。
+### Practice long-termism and make the most of every piece of clothing.
 
-- [隐私政策](PrivacyPolicy.md)
-- [服务条款](Terms&Conditions.md)
-- [支持](Support.md)
+- [Privacy Policy](PrivacyPolicy.md)
+- [Terms and Conditions](Terms&Conditions.md)
+- [Support](Support.md)

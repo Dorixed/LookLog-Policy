@@ -1,29 +1,29 @@
-# 服务条款
+# Terms of Service
 
-本服务条款适用于由邓贤（以下简称"服务提供商"）创建的 LookLog 应用程序（以下简称"应用程序"），这是一款面向移动设备的免费增值服务。
+These Terms of Service apply to the LookLog application (hereinafter referred to as "the application") created by Deng Xian (hereinafter referred to as "the service provider"), which is a free-to-use mobile application.
 
-下载或使用本应用程序，即表示您自动同意以下条款。强烈建议您在使用本应用程序之前仔细阅读并理解这些条款。严禁未经授权复制、修改应用程序、应用程序的任何部分或我们的商标。禁止任何试图提取应用程序源代码、将应用程序翻译成其他语言或创建衍生版本的行为。与应用程序相关的所有商标、版权、数据库权利和其他知识产权均为服务提供商的财产。
+By downloading or using this application, you automatically agree to the following terms. It is strongly recommended that you read and understand these terms carefully before using the application. Unauthorized copying, modification of the application, any part of the application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the application, translate the application into other languages, or create derivative versions are forbidden. All trademarks, copyrights, database rights, and other intellectual property rights related to the application are the property of the service provider.
 
-服务提供商致力于确保应用程序尽可能有益且高效。因此，服务提供商保留随时因任何原因修改应用程序或对其服务收费的权利。服务提供商向您保证，任何与应用程序或其服务相关的费用都将明确告知您。
+The service provider is committed to ensuring that the application is as beneficial and efficient as possible. Therefore, the service provider reserves the right to modify the application or charge for its services at any time for any reason. The service provider assures you that any fees related to the application or its services will be clearly communicated to you.
 
-应用程序存储和处理您提供给服务提供商的个人数据，以提供服务。维护手机安全和应用程序访问安全是您的责任。服务提供商强烈建议不要对手机进行越狱或root操作，这些操作会删除设备官方操作系统施加的软件限制。此类行为可能使您的手机面临恶意软件、病毒、恶意程序的风险，损害手机的安全功能，并可能导致应用程序无法正常运行或完全无法运行。
+The application stores and processes the personal data you provide to the service provider in order to provide services. It is your responsibility to maintain the security of your phone and the access to the application. The service provider strongly advises against jailbreaking or rooting your phone, as these actions remove the software restrictions imposed by the official operating system. Such actions may expose your phone to malware, viruses, and malicious programs, compromise the security features of your phone, and may cause the application to malfunction or become completely unusable.
 
-请注意，服务提供商不对某些方面承担责任。应用程序的某些功能需要活跃的互联网连接，可以是Wi-Fi或由您的移动网络提供商提供。如果由于无法访问Wi-Fi或数据流量用尽导致应用程序无法全面运行，服务提供商不承担责任。
+Please note that the service provider is not responsible for certain aspects. Some features of the application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The service provider is not liable if the application cannot function fully due to lack of access to Wi-Fi or if your data allowance is exhausted.
 
-如果您在Wi-Fi区域外使用应用程序，请注意您的移动网络提供商的协议条款仍然适用。因此，您可能会因使用应用程序期间的数据使用而产生移动提供商的费用或其他第三方费用。使用应用程序即表示您接受承担任何此类费用的责任，包括在未禁用数据漫游的情况下在本地区（即地区或国家）以外使用应用程序而产生的漫游数据费用。如果您不是使用应用程序设备的付费人，则假定您已获得付费人的许可。
+If you use the application outside of a Wi-Fi area, please be aware that the terms of your mobile network provider still apply. Therefore, you may incur charges from your mobile provider or other third parties for data usage while using the application. By using the application, you accept responsibility for any such charges, including roaming data charges incurred while using the application outside of your local area (i.e., region or country) if data roaming is not disabled. If you are not the payer for the device using the application, it is assumed that you have obtained permission from the payer.
 
-同样，服务提供商不能始终对您使用应用程序的情况承担责任。例如，确保设备电量充足是您的责任。如果您的设备电量耗尽而无法访问服务，服务提供商不承担责任。
+Similarly, the service provider cannot always be held responsible for your use of the application. For example, it is your responsibility to ensure that your device is adequately charged. The service provider is not liable if your device runs out of battery and you cannot access the service.
 
-关于服务提供商对您使用应用程序的责任，需要注意的是，虽然他们努力确保应用程序始终保持更新和准确，但他们确实依赖第三方提供信息。对于您完全依赖应用程序功能而遭受的任何直接或间接损失，服务提供商不承担任何责任。
+Regarding the service provider's liability for your use of the application, it is important to note that while they strive to keep the application updated and accurate, they do rely on third parties for information. The service provider is not liable for any direct or indirect losses you may suffer as a result of relying entirely on the application's functionality.
 
-服务提供商可能会在某个时候更新应用程序。应用程序目前根据操作系统要求提供（以及他们决定将应用程序扩展到的任何其他系统），这些要求可能会发生变化，如果您想继续使用应用程序，则需要下载更新。服务提供商不保证会始终更新应用程序以确保其与您的设备上安装的特定操作系统版本相关和/或兼容。但是，您同意在收到更新提示时始终接受应用程序更新。服务提供商也可能希望停止提供应用程序，并可能随时终止其使用，而无需向您提供终止通知。除非另行通知，在任何终止情况下，(a) 这些条款授予您的权利和许可将终止；(b) 您必须停止使用应用程序，并（如有必要）将其从设备中删除。
+The service provider may update the application at some point. The application is currently provided according to the requirements of the operating system (and any other systems they decide to extend the application to), and these requirements may change. If you wish to continue using the application, you will need to download updates. The service provider does not guarantee that the application will always be updated to ensure its relevance and/or compatibility with the specific operating system version installed on your device. However, you agree to always accept application updates when prompted. The service provider may also wish to discontinue providing the application and may terminate its use at any time without notice to you. Unless otherwise notified, in the event of any termination, (a) the rights and licenses granted to you by these terms will terminate; (b) you must stop using the application and, if necessary, remove it from your device.
 
-**服务条款的变更**
+**Changes to the Terms of Service**
 
-服务提供商可能会定期更新其服务条款。因此，建议您定期查看本页面以了解任何变更。服务提供商将通过在本页面上发布新的服务条款来通知您任何变更。
+The service provider may periodically update its Terms of Service. Therefore, it is recommended that you regularly check this page for any changes. The service provider will notify you of any changes by posting the new Terms of Service on this page.
 
-本服务条款自2024年11月15日起生效。
+These Terms of Service are effective from November 15, 2024.
 
-**联系我们**
+**Contact Us**
 
-如果您对服务条款有任何问题或建议，请随时通过 dengxian0714@gmail.com 与服务提供商联系。
+If you have any questions or suggestions regarding the Terms of Service, please feel free to contact the service provider at dengxian0714@gmail.com.

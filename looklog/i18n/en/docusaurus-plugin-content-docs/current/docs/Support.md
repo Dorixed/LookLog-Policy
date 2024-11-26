@@ -1,35 +1,34 @@
 ---
 layout: default
-title: 支持中心
+title: Support Center
 ---
 
-# LookLog 支持中心
+# LookLog Support Center
 
-## 关于 LookLog
+## About LookLog
 
-LookLog 是一款注重隐私的衣橱管理工具，致力于帮助长期主义者用数据思维重新定义衣物价值。
+LookLog is a privacy-focused wardrobe management tool designed to help long-termists redefine the value of clothing through data thinking.
 
-## 常见问题 (FAQ)
+## Frequently Asked Questions (FAQ)
 
-### 数据存储在哪里？
-所有数据均存储在您的设备本地，我们不会上传或收集任何个人数据。
+### Where is the data stored?
+All data is stored locally on your device; we do not upload or collect any personal data.
 
-### 如何备份数据？
-您可以在设置中使用 iCloud 备份功能，确保数据安全。
+### How to back up data?
+You can use the iCloud backup feature in the settings to ensure data security.
 
-### 会员订阅问题
-- 订阅后没有立即生效：请尝试重启应用
-- 需要恢复购买：点击设置中的"恢复购买"
-- 取消订阅：请在 iPhone 的设置 > Apple ID > 订阅中管理
+### Membership Subscription Issues
+- Subscription not taking effect immediately: Please try restarting the app.
+- Need to restore purchases: Click "Restore Purchases" in the settings.
+- To cancel a subscription: Manage it in iPhone Settings > Apple ID > Subscriptions.
 
-### 使用过程中遇到问题？
-- 确保您使用的是最新版本
-- 尝试重启应用
-- 如果问题持续，请联系我们
+### Encountering issues during use?
+- Ensure you are using the latest version.
+- Try restarting the app.
+- If the problem persists, please contact us.
 
-## 联系方式
+## Contact Us
 
-如有任何问题或建议，欢迎通过以下方式联系：
+If you have any questions or suggestions, feel free to contact us through the following:
 
-- 邮箱：dengxian0714@gmail.com
-
+- Email: dengxian0714@gmail.com
