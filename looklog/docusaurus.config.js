@@ -31,15 +31,7 @@ const config = {
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
- i18n: {
-      defaultLocale: 'zh-CN',
-      locales: ['en', 'zh-CN'],
-      localeConfigs: {
-        'zh-Hans': {
-          htmlLang: 'zh-CN',
-        },
-      },
-    },
+
     
 
   presets: [
@@ -80,10 +72,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {
-            type: 'localeDropdown',
-            position: 'right',
-          },
+          
         ],
       },
       footer: {
@@ -108,11 +97,6 @@ const config = {
     }),
 };
 
-// 根据语言设置不同的 tagline
-if (config.i18n.currentLocale === 'en') {
-  config.tagline = 'A Wardrobe Journal for Long-term Thinkers';
-} else {
-  config.tagline = '长期主义者的衣橱笔记';
-}
+
 
 export default config;
