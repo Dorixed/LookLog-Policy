@@ -95,6 +95,12 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      scripts: [
+        {
+          src: '@vercel/analytics/client',
+          async: true,
+        },
+      ],
       metadata: [{
         name: 'keywords',
         content: 'looklog, wardrobe, clothing, journal',
