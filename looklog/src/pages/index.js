@@ -7,6 +7,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import Translate from '@docusaurus/Translate';
+import { FaApple, FaAndroid } from 'react-icons/fa';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -23,10 +24,19 @@ function HomepageHeader() {
         </p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            <Translate id="homepage.learnMore">
-              Learn More About LookLog
+            className={clsx('button button--lg', styles.downloadButton, styles.iosButton)}
+            to="https://apps.apple.com/cn/app/looklog/id6738351992">
+            <FaApple className={styles.buttonIcon} />
+            <Translate id="homepage.downloadIOS">
+              iOS下载
+            </Translate>
+          </Link>
+          <Link
+            className={clsx('button button--lg', styles.downloadButton, styles.androidButton)}
+            to="https://play.google.com/store/your-android-app-link">
+            <FaAndroid className={styles.buttonIcon} />
+            <Translate id="homepage.downloadAndroid">
+              Android下载
             </Translate>
           </Link>
         </div>

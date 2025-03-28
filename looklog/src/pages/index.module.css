@@ -22,3 +22,40 @@
   justify-content: center;
 }
 
+.downloadButton {
+  margin: 0 10px;
+  padding: 12px 24px;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  font-weight: 600;
+}
+
+.buttonIcon {
+  margin-right: 8px;
+  font-size: 1.2em;
+}
+
+.iosButton {
+  background-color: #000000;
+  color: white;
+  border: 2px solid #000000;
+}
+
+.iosButton:hover {
+  background-color: white;
+  color: #000000;
+}
+
+.androidButton {
+  background-color: #3DDC84;
+  color: white;
+  border: 2px solid #3DDC84;
+}
+
+.androidButton:hover {
+  background-color: white;
+  color: #3DDC84;
+}
+
