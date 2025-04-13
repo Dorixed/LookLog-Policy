@@ -33,7 +33,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className={clsx('button button--lg', styles.downloadButton, styles.androidButton)}
-            to="https://play.google.com/store/your-android-app-link">
+            to="https://pub-29c7ca0035d547e9bca6c62edc5749c7.r2.dev/LookLog-beta-1.0.0.apk">
             <FaAndroid className={styles.buttonIcon} />
             <Translate id="homepage.downloadAndroid">
               Android下载
