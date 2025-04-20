@@ -1,5 +1,11 @@
 # 版本记录-Android
 
+### v1.0.1 
+![Release Date](https://img.shields.io/badge/Release_Date-April_20,_2025-0080FF?style=flat&logoWidth=1)
+
+**💅改进：**
+* 新增拍照添加穿搭功能
+* 优化APK大小
 
 
 ### v1.0.1 
