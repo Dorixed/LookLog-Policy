@@ -1,5 +1,26 @@
 # 版本记录-Android
 
+### v1.1.0
+![Release Date](https://img.shields.io/badge/Release_Date-May_6,_2025-0080FF?style=flat&logoWidth=1)
+
+**🥳新功能：**
+
+* 新增按季节筛选衣物功能
+* 支持分类排序
+* 断舍离页面增加统计信息
+* 断舍离衣物增加放回按钮
+* 新增更新衣物图片功能
+
+**💅改进：**
+调整衣橱页面UI
+调整卡片UI以及卡片的默认文字内容
+开放衣物编辑页面的裁剪比例，不再限制为1:1
+支持拖动衣橱页面的添加衣物按钮
+修复分类编辑失败的问题
+修复衣橱页面统计信息的小数取整问题
+移除衣物编辑页面右上角的删除按钮，避免误触
+
+
 ### v1.0.2
 ![Release Date](https://img.shields.io/badge/Release_Date-April_20,_2025-0080FF?style=flat&logoWidth=1)
 

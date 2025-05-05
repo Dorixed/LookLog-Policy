@@ -59,3 +59,124 @@
   color: #3DDC84;
 }
 
+.dropdownContainer {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdownMenu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+  min-width: 160px;
+  padding: 8px 0;
+  margin-top: 4px;
+}
+
+.dropdownItem {
+  display: block;
+  padding: 8px 16px;
+  color: #333;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.dropdownItem:hover {
+  background-color: #f5f5f5;
+  color: var(--ifm-color-primary);
+}
+
+/* Modal Styles */
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6); /* 半透明遮罩 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000; /* 确保在最上层 */
+  padding: 1rem; /* 在小屏幕上留出边距 */
+}
+
+.modalContent {
+  background-color: white;
+  padding: 25px 35px;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  position: relative;
+  max-width: 90vw;
+  min-width: 320px; /* 最小宽度 */
+  color: #333; /* 设置默认文字颜色 */
+  text-align: center; /* 内容居中 */
+}
+
+.closeButton {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  background: none;
+  border: none;
+  font-size: 2rem; /* 增大关闭按钮 */
+  font-weight: bold;
+  line-height: 1;
+  cursor: pointer;
+  color: #aaa;
+  padding: 0; /* 移除默认 padding */
+}
+
+.closeButton:hover {
+  color: #555;
+}
+
+.modalTitle {
+  margin-top: 0;
+  margin-bottom: 25px; /* 标题和链接间距 */
+  color: var(--ifm-color-primary-darkest); /* 使用主题色 */
+  font-size: 1.5rem; /* 调整标题大小 */
+}
+
+.modalLinks {
+  display: flex;
+  flex-direction: column;
+  gap: 15px; /* 链接之间的间距 */
+}
+
+.modalLinkItem {
+  display: block; /* 让链接占据整行 */
+  padding: 12px 20px;
+  border: 1px solid var(--ifm-color-primary);
+  border-radius: 5px;
+  text-align: center;
+  color: var(--ifm-color-primary);
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.modalLinkItem:hover {
+  background-color: var(--ifm-color-primary);
+  color: white;
+  text-decoration: none;
+}
+
+/* 为第一个链接（直接下载）添加一点强调 */
+.modalLinks a:first-child {
+  background-color: var(--ifm-color-primary-lightest);
+  border-color: var(--ifm-color-primary-dark);
+  color: var(--ifm-color-primary-darker);
+}
+
+.modalLinks a:first-child:hover {
+   background-color: var(--ifm-color-primary);
+   border-color: var(--ifm-color-primary);
+   color: white;
+}
+
