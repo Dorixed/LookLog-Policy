@@ -64,7 +64,7 @@ function HomepageHeader() {
               </Link>
               <Link
                 className={styles.modalLinkItem}
-                to="https://pan.quark.cn/s/93d895f9ba05"
+                to="https://pan.quark.cn/s/232acdf98391"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setShowAndroidModal(false)}
@@ -73,7 +73,7 @@ function HomepageHeader() {
               </Link>
               <Link
                 className={styles.modalLinkItem}
-                to="https://pan.baidu.com/s/1RP7nnqC09lqYlEp3WUBszA?pwd=1111"
+                to="https://pan.baidu.com/s/1UkcA2oG68b5f3nAlyWT3Cg?pwd=1111"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setShowAndroidModal(false)}
