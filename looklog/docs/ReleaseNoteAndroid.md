@@ -1,5 +1,18 @@
 # 版本记录-Android
 
+### v1.3.0
+![Release Date](https://img.shields.io/badge/Release_Date-June_14,_2025-0080FF?style=flat&logoWidth=1)
+
+**🥳新功能：**
+* 新增试衣间功能，支持搭配衣物
+* 穿搭日记支持从衣橱选择并保存搭配，支持从试衣间选择已保存的搭配
+* 新增列表模式展示衣物
+* 新增数据导入导出功能
+
+**💅改进：**
+* 支持记住筛选、排序、视图切换的选择
+* 修复衣物重复处理的问题
+
 ### v1.2.0
 
 ![Release Date](https://img.shields.io/badge/Release_Date-May_17,_2025-0080FF?style=flat&logoWidth=1)
