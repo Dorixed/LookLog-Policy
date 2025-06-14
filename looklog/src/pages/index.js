@@ -57,14 +57,14 @@ function HomepageHeader() {
             <div className={styles.modalLinks}>
               <Link
                 className={styles.modalLinkItem}
-                to="https://pub-29c7ca0035d547e9bca6c62edc5749c7.r2.dev/LookLog-release-1.3.0.apk"
+                to="https://pub-29c7ca0035d547e9bca6c62edc5749c7.r2.dev/LookLog-release-1.3.1.apk"
                 onClick={() => setShowAndroidModal(false)}
               >
                 <Translate id="homepage.downloadDirect">直接下载 (推荐)</Translate>
               </Link>
               <Link
                 className={styles.modalLinkItem}
-                to="https://pan.quark.cn/s/aeb2dd81056b" 
+                to="https://pan.quark.cn/s/829b1df44c43" 
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setShowAndroidModal(false)}
@@ -73,7 +73,7 @@ function HomepageHeader() {
               </Link>
               <Link
                 className={styles.modalLinkItem}
-                to="https://pan.baidu.com/s/1_Qt7bLr1MXnh7QihAJSAqQ?pwd=1111" 
+                to="https://pan.baidu.com/s/1p3stVsQO8OxJDMGfimmvPA?pwd=1111" 
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setShowAndroidModal(false)}

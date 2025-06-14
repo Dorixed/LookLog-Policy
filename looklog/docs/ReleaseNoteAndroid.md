@@ -1,5 +1,12 @@
 # 版本记录-Android
 
+### v1.3.1
+![Release Date](https://img.shields.io/badge/Release_Date-June_14,_2025-0080FF?style=flat&logoWidth=1)
+
+**💅改进：**
+* 修复卡片模式下的UI错乱问题
+
+
 ### v1.3.0
 ![Release Date](https://img.shields.io/badge/Release_Date-June_14,_2025-0080FF?style=flat&logoWidth=1)
 
