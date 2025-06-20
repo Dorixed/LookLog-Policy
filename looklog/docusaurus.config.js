@@ -78,7 +78,7 @@ const config = {
       footer: {
         style: 'dark',
         
-        copyright: `Copyright © ${new Date().getFullYear()} Xian Deng. Built with 🩷.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Xian Deng. Built with 🩷.<br/><a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer" style="color: #999;">蜀ICP备2025137301号-1</a>`,
       },
       prism: {
         theme: prismThemes.github,
