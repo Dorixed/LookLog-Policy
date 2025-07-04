@@ -40,7 +40,7 @@ function ResetPasswordPage() {
 
     try {
       // 您的后端API地址，确保端口与server.js中的一致
-      const response = await fetch(`https://api.looklog.vip/reset-password/${token}`, {
+      const response = await fetch(`https://looklog.vip/reset-password/${token}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
