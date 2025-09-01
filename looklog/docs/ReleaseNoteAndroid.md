@@ -1,5 +1,29 @@
 # 版本记录-Android
 
+### v1.4.1
+![Release Date](https://img.shields.io/badge/Release_Date-Sep_01,_2025-0080FF?style=flat&logoWidth=1)
+
+**💅改进：**
+* 修复衣物图片更新失败的问题
+
+
+### v1.4.0
+![Release Date](https://img.shields.io/badge/Release_Date-Aug_09,_2025-0080FF?style=flat&logoWidth=1)
+
+**🥳新功能：**
+* 新增回到顶部功能，向下滑动衣物列表，添加按钮会变成回到顶部按钮
+* 优化：穿搭日记中的图片点击可放大查看
+
+
+**💅改进：**
+* 修复大量数据下，衣物加载缓慢的问题，首次升级安装后，需要重启应用并等待数据迁移
+* 修复批量添加衣物时，直接保存会崩溃的问题
+* 修复保存搭配到相册功能不生效的问题
+* 修复衣物选择器中的分类顺序与衣橱中不一致的问题
+* 修复穿搭日记中，更新衣物图片失败的问题
+* 修复在穿搭日记中使用衣物时，衣物的穿着次数不会自动+1的问题
+
+
 ### v1.3.1
 ![Release Date](https://img.shields.io/badge/Release_Date-June_14,_2025-0080FF?style=flat&logoWidth=1)
 
