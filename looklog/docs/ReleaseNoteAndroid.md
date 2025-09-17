@@ -1,5 +1,12 @@
 # 版本记录-Android
 
+### v1.5.1
+![Release Date](https://img.shields.io/badge/Release_Date-Sep_18,_2025-0080FF?style=flat&logoWidth=1)
+
+**💅改进：**
+* 优化: 标签分组显示
+
+
 ### v1.5.0
 ![Release Date](https://img.shields.io/badge/Release_Date-Sep_18,_2025-0080FF?style=flat&logoWidth=1)
 
