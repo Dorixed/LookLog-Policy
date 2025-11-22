@@ -1,6 +1,24 @@
 # 版本记录-Android
 
 
+### v1.7.0
+![Release Date](https://img.shields.io/badge/Release_Date-Nov_22,_2025-0080FF?style=flat&logoWidth=1)
+
+**🥳新功能：**
+* 新增: 支持重命名灵感、更新灵感图片并关联衣物
+* 新增: 衣橱页面可按标签分组展示，新增标签筛选半高面板与筛选模式选择
+* 新增: 支持创建标签组
+
+
+**💅改进：**
+* 优化: 支持时间线图片通过多种方式更新，并支持再次编辑当日搭配
+* 优化: 衣物详情页更新图片时支持拍照更新
+* 修复: 衣物详情页季节选项支持横向滚动
+* 修复: 试衣间中的搭配修改分类后保存失败的问题
+
+
+
+
 ### v1.6.0
 ![Release Date](https://img.shields.io/badge/Release_Date-Oct_26,_2025-0080FF?style=flat&logoWidth=1)
 
