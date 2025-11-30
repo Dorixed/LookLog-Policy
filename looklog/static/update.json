@@ -1,10 +1,9 @@
 {
-  "versionCode": 14,
-  "versionName": "1.7.0",
+  "versionCode": 15,
+  "versionName": "1.8.0",
   "forceUpdate": false,
-  "downloadUrl": "https://pub-29c7ca0035d547e9bca6c62edc5749c7.r2.dev/LookLog-release-1.7.0.apk",
+  "downloadUrl": "https://pub-29c7ca0035d547e9bca6c62edc5749c7.r2.dev/LookLog-release-1.8.0.apk",
   "releaseNotes": [
-    "releaseNotes": [
       "新增: 衣橱新增搜索功能",
       "新增: 衣物支持添加细节图片，并可拖动调整顺序",
       "新增: 穿搭日记支持填写备注",
@@ -15,6 +14,5 @@
       "优化: 添加衣物页面的裁剪与编辑功能与衣物编辑保持一致",
       "优化: 调整月度穿搭深色模式UI",
       "修复: 穿搭日记中的搭配分类与试衣间搭配分类不同步的问题"
-  ]
 ]
 }
